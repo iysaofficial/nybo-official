@@ -48,7 +48,16 @@ const Navbar = () => {
                 </li> */}
                 <li><a href="#about">Tentang</a></li>
                 <li><a href="https://drive.google.com/file/d/1g2xj_tc0NwMD8BYhgB5y7NURA0W3tNjB/view?usp=drive_link" target='_blank'>Buku Panduan</a></li>
-                {/* <li><a href="#">Galeri</a></li> */}
+                <li>
+                    <label htmlFor="btn-1" className='show'>Galeri</label>
+                    <a href="#">Galeri</a>
+                    <input type="checkbox" id='btn-1'/>
+                    <ul>
+                        <li><a href="https://drive.google.com/drive/folders/1tDzGqeV_WAxeCoTJmlp97FSzDYeoOoC8">2023</a></li>
+                        {/* <li><a href="#">Elements</a></li>
+                        <li><a href="#">Icons</a></li> */}
+                    </ul>
+                </li>
                 <li><a href="#category">Kategori</a></li>  
                 <li><a href="#contact">Kontak</a></li>
             </ul>
