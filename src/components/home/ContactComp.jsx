@@ -28,7 +28,7 @@ const ContactComp = () =>{
                     <div className="right-side">
                         <div className="topic-text">Kirimkan pesan kepada kami</div>
                         {/* <p>If you have any work from me or any types of quries related to my tutorial, you can send me message from here. it's my pleasure to help you.</p> */}
-                        <form action="https://formspree.io/f/xeqyenyl" method="POST">
+                        <form action="https://formspree.io/f/mvoebvrd" method="POST">
                             <div className="input-box">
                                 <input type="text" name="name" placeholder="Masukan Nama Anda"/>
                             </div>
