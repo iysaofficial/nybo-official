@@ -7,7 +7,7 @@ const HeroComp = () =>{
                 <div className="hero-text">
                     <h1>National Youth Bioloy Olympiad</h1>
                     <p>Pendaftaran National Youth Bioloy Olympiad telah dibuka! Bergabunglah dengan acara bergengsi ini dan dapatkan pengalaman yang tak terlupakan!</p>
-                    <a href="https://registrasi-nybo-2024.vercel.app/" target="_blank">Daftar</a>
+                    <a href="#">Pendaftaran di Tutup</a>
                 </div>
             </div>
         </section>
