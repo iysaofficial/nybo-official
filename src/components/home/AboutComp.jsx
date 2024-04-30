@@ -6,7 +6,7 @@ const AboutComp = () =>{
             <h1 className="about-heading">Tentang NYBO</h1>
             <div className="box-container">
                 <div className="box">
-                    <img src="./assets/images/NYBO.png" alt=""/>
+                    <img src="./assets/images/logo/NYBO.png" alt=""/>
                     <h3>Objektif</h3>
                     <p>Sebuah wadah bagi para akademisi muda berbakat dari Indonesia untuk memecahkan masalah-masalah global.</p>
                 </div>
