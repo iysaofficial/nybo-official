@@ -55,35 +55,35 @@ const NavbarComp = () =>{
                         <ul className='sub-menu'>
                             <li className='sub-item'><a href="" target='_blank'>Press Release 2024</a></li>
                         </ul>
-                    </li>
+                    </li> */}
 
                     <li className='menu-item'>
                         <a className='sub-btn' href="#">Daftar Pemenang <i className='fas fa-angle-down'></i></a>
                         <ul className='sub-menu'>
-                            <li className='sub-item'><a href="" target='_blank'>Daftar Pemenang 2024</a></li>
+                            <li className='sub-item'><a href="https://drive.google.com/file/d/1IAkodP-yY31PKFKaIwzdGlVrDFyTy712/view?usp=drive_link" target='_blank'>Daftar Pemenang 2024</a></li>
                         </ul>
                     </li>
 
-                    <li className='menu-item'>
+                    {/* <li className='menu-item'>
                         <a className='sub-btn' href="#">Kurasi <i className='fas fa-angle-down'></i></a>
                         <ul className='sub-menu'>
                             <li className='sub-item'><a href="" target='_blank'>Kurasi 2024</a></li>
                         </ul>
                     </li>
-                    
+                     */}
                     <li className='menu-item'>
-                        <a className='sub-btn' href="#">Sertifikat Supervisor <i className='fas fa-angle-down'></i></a>
+                        <a className='sub-btn' href="#">Sertifikat <i className='fas fa-angle-down'></i></a>
                         <ul className='sub-menu'>
-                            <li className='sub-item'><a href="" target='_blank'>Sertifikat Supervisor 2024</a></li>
+                            <li className='sub-item'><a href="https://drive.google.com/drive/u/0/folders/126tKrK-L35QOpwGMvaF4Jme7efGVHHQt" target='_blank'>Sertifikat 2024</a></li>
                         </ul>
                     </li>
 
                     <li className='menu-item'>
                         <a className='sub-btn' href="#">Galeri <i className='fas fa-angle-down'></i></a>
                         <ul className='sub-menu'>
-                            <li className='sub-item'><a href="" target='_blank'>2024</a></li>
+                            <li className='sub-item'><a href="#" target='_blank'>2024</a></li>
                         </ul>
-                    </li> */}
+                    </li> 
 
 
 
