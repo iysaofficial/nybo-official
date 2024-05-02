@@ -8,7 +8,7 @@ const HeroComp = () =>{
                     <h1>National Youth Bioloy Olympiad</h1>
                     <p>Pendaftaran National Youth Bioloy Olympiad telah dibuka! Bergabunglah dengan acara bergengsi ini dan dapatkan pengalaman yang tak terlupakan!</p>
                     <br />
-                    <a href="#">Pendaftaran di Tutup</a>
+                    <a href="#">Segera Hadir 2025</a>
                 </div>
             </div>
         </section>
