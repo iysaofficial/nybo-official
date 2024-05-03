@@ -11,7 +11,7 @@ const AboutComp = () =>{
                     <p>Sebuah wadah bagi para akademisi muda berbakat dari Indonesia untuk memecahkan masalah-masalah global.</p>
                 </div>
                 <div className="box">
-                    <img src="./assets/images/NYBO.png" alt=""/>
+                    <img src="./assets/images/logo/NYBO.png" alt=""/>
                     <h3>Kategori Kompetisi</h3>
                     <p>Kompetisi online untuk Peserta Indonesia</p>
                 </div>
