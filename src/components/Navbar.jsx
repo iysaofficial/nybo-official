@@ -45,17 +45,17 @@ const NavbarComp = () =>{
                     <li className='menu-item'><a href="#about">Tentang</a></li>
                     <li className='menu-item'><a href="https://drive.google.com/file/d/1g2xj_tc0NwMD8BYhgB5y7NURA0W3tNjB/view?usp=drive_link" target='_blank'>Buku Panduan</a></li>
                     {/* <li className='menu-item'><a href="/AboutPage">Kelas</a></li> */}
-                    <li className='menu-item'><a href="/#category">Kategori</a></li>
-                    <li className='menu-item'><a href="/#contact">Kontak</a></li>
+                    {/* <li className='menu-item'><a href="/#category">Kategori</a></li> */}
+                    {/* <li className='menu-item'><a href="/#contact">Kontak</a></li> */}
                     {/* <li className='menu-item'><a href="https://drive.google.com/file/d/1jkpeD9EN2kWu059MDmriUHgqil_P31xT/view" target='_blank'>Press Release</a></li> */}
                     {/* <li className='menu-item'><a href="https://drive.google.com/drive/folders/1l_bCazIZmdtOSUjAuBAgXTg7YEBTixPY" target='_blank'>Certificate Supervisor</a></li> */}
 
-                    {/* <li className='menu-item'>
+                    <li className='menu-item'>
                         <a className='sub-btn' href="#">Liputan Media <i className='fas fa-angle-down'></i></a>
                         <ul className='sub-menu'>
-                            <li className='sub-item'><a href="" target='_blank'>Press Release 2024</a></li>
+                            <li className='sub-item'><a href="https://drive.google.com/file/d/18dkpe3f-rHJnmxn4YBWy7EpZjfi5EhJk/view?usp=sharing" target='_blank'>Press Release 2024</a></li>
                         </ul>
-                    </li> */}
+                    </li>
 
                     <li className='menu-item'>
                         <a className='sub-btn' href="#">Daftar Pemenang <i className='fas fa-angle-down'></i></a>
@@ -81,7 +81,7 @@ const NavbarComp = () =>{
                     <li className='menu-item'>
                         <a className='sub-btn' href="#">Galeri <i className='fas fa-angle-down'></i></a>
                         <ul className='sub-menu'>
-                            <li className='sub-item'><a href="#" target='_blank'>2024</a></li>
+                            <li className='sub-item'><a href="https://drive.google.com/drive/folders/1otO678XWKJeyTUa9nEpsqGgGMzK2Mcq9?usp=sharing" target='_blank'>2024</a></li>
                         </ul>
                     </li> 
 
