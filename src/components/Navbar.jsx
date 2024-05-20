@@ -64,13 +64,13 @@ const NavbarComp = () =>{
                         </ul>
                     </li>
 
-                    {/* <li className='menu-item'>
+                    <li className='menu-item'>
                         <a className='sub-btn' href="#">Kurasi <i className='fas fa-angle-down'></i></a>
                         <ul className='sub-menu'>
-                            <li className='sub-item'><a href="" target='_blank'>Kurasi 2024</a></li>
+                            <li className='sub-item'><a href="https://drive.google.com/drive/u/0/folders/1LtvfFSoW9h0ItVOfgDuRs7eMsroyHrtw" target='_blank'>Kurasi 2024</a></li>
                         </ul>
                     </li>
-                     */}
+                    
                     <li className='menu-item'>
                         <a className='sub-btn' href="#">Sertifikat Supervisor <i className='fas fa-angle-down'></i></a>
                         <ul className='sub-menu'>
