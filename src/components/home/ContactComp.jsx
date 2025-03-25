@@ -21,7 +21,7 @@ const ContactComp = () =>{
                         <div className="email details">
                             <i className="fas fa-envelope"></i>
                             <div className="text-one">Email</div>
-                            <div className="text-one"><a href="mailto:nybo.officiall@gmail.com" target="_blank">nybo.officiall@gmail.com</a></div>
+                            <div className="text-one"><a href="mailto:iysa.olympiad@gmail.com" target="_blank">iysa.olympiad@gmail.com</a></div>
                             <div className="text-two"></div>
                         </div>
                     </div>
